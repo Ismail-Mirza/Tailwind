@@ -1,0 +1,4 @@
+/* tailwind utilities classes*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
